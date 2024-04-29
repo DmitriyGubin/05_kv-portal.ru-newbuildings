@@ -1,0 +1,1 @@
+Это страницы раздела https://kv-portal.ru/newbuildings/ (например https://kv-portal.ru/newbuildings/mandarin-2/). Мной выполнялся так же бенкенд на Битриксе.
